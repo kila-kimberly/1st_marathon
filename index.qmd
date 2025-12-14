@@ -1,0 +1,14 @@
+---
+title: "Kimberly's First Marathon!"
+image: images/face.jpeg
+about:
+  template: trestles
+
+---
+
+::: column-page
+## Stay tuned!
+
+I'm still configuring this website but please stay tuned!
+
+:::
